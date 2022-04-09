@@ -1,1 +1,0 @@
-# Install-MySQL-on-El-Capitan-using-Homebrew
